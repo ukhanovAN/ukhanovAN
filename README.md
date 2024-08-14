@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3OWljMXFoZ2I3ZXRqM3JibmNrdmxqeDJ0Nmw5eGV5NTRxNjk1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UnJGadtuhAALncLGlV/giphy.gif" width="100"/>
+</div>
+
 <!--
 **ukhanovAN/ukhanovAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
